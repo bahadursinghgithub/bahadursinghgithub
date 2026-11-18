@@ -123,12 +123,6 @@ I'm a software technology student who learns best by **building real projects**:
 
 <img src="https://streak-stats.demolab.com/?user=bahadursinghgithub&theme=transparent&hide_border=true&ring=3B82F6&fire=EA4335&currStreakLabel=34A853" />
 
-<!-- Contribution snake animation (needs .github/workflows/snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahadursinghgithub/bahadursinghgithub/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/bahadursinghgithub/bahadursinghgithub/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</picture>
-
 </div>
 
 ---
