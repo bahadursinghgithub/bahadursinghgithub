@@ -30,7 +30,7 @@ from dataclasses import dataclass, field
 class Developer:
     name: str = "Bahadur Singh"
     role: str = "Software Technology Student"
-    location: str = "Bhopal, India 🇮🇳"
+    location: str = "Bengaluru, India 🇮🇳"
     currently_building: str = "CandleLeague — a fantasy crypto game"
     currently_learning: list = field(default_factory=lambda: [
         "Rust (backend for CandleLeague)",
